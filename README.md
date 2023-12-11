@@ -1,4 +1,4 @@
-# Test
+# Test GitKraken
 Program for encoding, decrypting text
 
 Download the program to your computer and run it  
